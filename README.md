@@ -23,6 +23,7 @@ Primary Technologies:
 ------------------------------------
 Familiar With:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/129284ca-7cf4-4614-b349-7404a2f5c5d2" width="40" height="40">
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/a553331c-6d5b-45c0-898f-d3bed50ef2f6" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/08373c36-3330-4df6-82ec-251890aa63b3" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/eceafa23-6e6f-4d48-9353-cb3f3463b42c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/840bfd6e-b758-4910-b927-a1b77633dd2d" width="40" height="40">
@@ -33,7 +34,6 @@ Familiar With:
 
 ------------------------------------
 Interested In:
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/a553331c-6d5b-45c0-898f-d3bed50ef2f6" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/96fa6625-f7fb-4630-b68f-43bba10a1758" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/c9c5fb66-9f92-448b-b6d0-061a7f0ea83c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/9da47247-51f6-4715-9430-4f5be828c282" width="40" height="40">
