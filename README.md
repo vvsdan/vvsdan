@@ -7,9 +7,9 @@ I am a lifelong learner and enjoy challenges.
 Primary Technologies:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/abb3d920-03b4-415c-a932-42e5b3674c42" width="50" height="50">
 <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/110357864/244846672-041ffee8-71e1-4302-a9c3-e1cbad5bb11d.svg" width="50" height="50">
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/041ffee8-71e1-4302-a9c3-e1cbad5bb11d)
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb)
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/cb64b8ae-ad00-4f93-bf75-386a939a161f)!
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/041ffee8-71e1-4302-a9c3-e1cbad5bb11d" width="50" height="50">
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb" width="50" height="50">
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/cb64b8ae-ad00-4f93-bf75-386a939a161f" width="50" height="50">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/079debd6-df83-41b4-89a5-b99161a3c22c" width="50" height="50">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/14390be0-0bf4-494d-ba07-afc50be3f55d" width="50" height="50">
 ------------------------------------
