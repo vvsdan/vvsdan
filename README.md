@@ -22,20 +22,22 @@ Primary Technologies:
 
 ------------------------------------
 Familiar With:
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/129284ca-7cf4-4614-b349-7404a2f5c5d2" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/08373c36-3330-4df6-82ec-251890aa63b3" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/eceafa23-6e6f-4d48-9353-cb3f3463b42c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/840bfd6e-b758-4910-b927-a1b77633dd2d" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="40" height="40">
 <img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="40" height="40"> 
+<img src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" width="40" height="40">
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40">
 
 ------------------------------------
 Interested In:
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/129284ca-7cf4-4614-b349-7404a2f5c5d2" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/a553331c-6d5b-45c0-898f-d3bed50ef2f6" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/96fa6625-f7fb-4630-b68f-43bba10a1758" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/c9c5fb66-9f92-448b-b6d0-061a7f0ea83c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/9da47247-51f6-4715-9430-4f5be828c282" width="40" height="40">
+<img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="40" height="40">
 
 ------------------------------------
 
