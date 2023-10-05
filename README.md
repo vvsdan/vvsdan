@@ -5,7 +5,7 @@ I am a lifelong learner and enjoy challenges.
 
 -------------------------------------------------------------------------------
 Primary Technologies:
-![html5-original](https://github.com/vvsdan/vvsdan/assets/110357864/abb3d920-03b4-415c-a932-42e5b3674c42)
+![html5-original](https://github.com/vvsdan/vvsdan/assets/110357864/abb3d920-03b4-415c-a932-42e5b3674c42 | width=100)
 ![css3-original](https://github.com/vvsdan/vvsdan/assets/110357864/041ffee8-71e1-4302-a9c3-e1cbad5bb11d)
 ![javascript-original](https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb)
 ![react-original](https://github.com/vvsdan/vvsdan/assets/110357864/cb64b8ae-ad00-4f93-bf75-386a939a161f)!
