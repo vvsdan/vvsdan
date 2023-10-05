@@ -10,12 +10,15 @@ Primary Technologies:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/cb64b8ae-ad00-4f93-bf75-386a939a161f" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/079debd6-df83-41b4-89a5-b99161a3c22c" width="30" height="30">
-<img src="https://github.com/vvsdan/vvsdan/assets/110357864/14390be0-0bf4-494d-ba07-afc50be3f55d" width="30" height="5300">
+<img src="https://github.com/vvsdan/vvsdan/assets/110357864/14390be0-0bf4-494d-ba07-afc50be3f55d" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" width="30" height="30">
 ------------------------------------
 Familiar With:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/08373c36-3330-4df6-82ec-251890aa63b3" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/eceafa23-6e6f-4d48-9353-cb3f3463b42c" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/840bfd6e-b758-4910-b927-a1b77633dd2d" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/25181517/187896150-cc1dcb12-d490-445c-8e4d-1275cd2388d6.png" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" width="30" height="30">
 ------------------------------------
 Interested In: 
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/129284ca-7cf4-4614-b349-7404a2f5c5d2" width="30" height="30">
@@ -23,6 +26,7 @@ Interested In:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/96fa6625-f7fb-4630-b68f-43bba10a1758" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/c9c5fb66-9f92-448b-b6d0-061a7f0ea83c" width="30" height="30">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/9da47247-51f6-4715-9430-4f5be828c282" width="30" height="30">
+<img src="https://user-images.githubusercontent.com/25181517/183890598-19a0ac2d-e88a-4005-a8df-1ee36782fde1.png" width="30" height="30">
 
 
 
