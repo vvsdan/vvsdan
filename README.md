@@ -42,8 +42,16 @@ Interested In:
 
 ------------------------------------
 
+Currently working on: 
+1) React e-Commerce course project 
+2) Updating README.md files for uploaded projects
+3) Review/Practice Exams for AWS CPP
 
+Recently finished: 
+1) AWS Cloud Practitioner course ✅
 
+To Do: 
+1) Book AWS CPP Exam 
 
 
 
