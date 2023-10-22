@@ -9,7 +9,7 @@ I have a BSc with minor in psychology, and am a photographer.
 I am a lifelong learner and enjoy challenges!
 
 -------------------------------------------------------------------------------
-Primary Technologies:
+## Primary Technologies:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/abb3d920-03b4-415c-a932-42e5b3674c42" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/041ffee8-71e1-4302-a9c3-e1cbad5bb11d" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb" width="40" height="40">
@@ -22,7 +22,7 @@ Primary Technologies:
 <img src="https://upload.wikimedia.org/wikipedia/commons/b/b6/Adobe_Photoshop_Lightroom_CC_logo.svg" width="40" height="40">
 
 ------------------------------------
-Familiar With:
+## Familiar With:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/129284ca-7cf4-4614-b349-7404a2f5c5d2" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/a553331c-6d5b-45c0-898f-d3bed50ef2f6" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/08373c36-3330-4df6-82ec-251890aa63b3" width="40" height="40">
@@ -34,7 +34,7 @@ Familiar With:
 <img src="https://upload.wikimedia.org/wikipedia/commons/c/cb/Adobe_After_Effects_CC_icon.svg" width="40" height="40">
 
 ------------------------------------
-Interested In:
+## Interested In:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/96fa6625-f7fb-4630-b68f-43bba10a1758" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/c9c5fb66-9f92-448b-b6d0-061a7f0ea83c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/9da47247-51f6-4715-9430-4f5be828c282" width="40" height="40">
