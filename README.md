@@ -42,19 +42,19 @@ I am a lifelong learner and enjoy challenges!
 
 ------------------------------------
 
-Currently working on: 
-1) React e-Commerce course project 
+### Currently working on: 
+1) [React e-Commerce course project](https://github.com/vvsdan/comfy-store) 
 2) Updating README.md files for uploaded projects
 3) Review/Practice Exams for AWS CPP
 
-Recently finished: 
+### Recently finished: 
 1) AWS Cloud Practitioner course ✅
 
-To Do: 
+### To Do: 
 1) Book AWS CPP Exam 
 
 -----------------------------------
-#### Upcoming Events: 
+### Upcoming Events: 
 Attending React Day Berlin (Remote) Dec 8th & 12th <img src="https://miscdj.s3.amazonaws.com/react_day.png" height="28" width="28">
 
 <img src="https://camo.githubusercontent.com/b9a9b7a91943e87e70e11ac09170b5296f4642039c96321eb410ddf1e22cc0c6/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d776176696e6726636f6c6f723d303a3030633366662c3130303a666666663163266865696768743d38302673656374696f6e3d666f6f746572">
