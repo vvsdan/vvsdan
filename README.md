@@ -55,7 +55,6 @@ I am a lifelong learner and enjoy challenges!
 
 -----------------------------------
 ### Upcoming Events: 
-Attending React Summit US (Remote) Nov 13th & 15th
 
 Attending React Day Berlin (Remote) Dec 8th & 12th <img src="https://miscdj.s3.amazonaws.com/react_day.png" height="28" width="28">
 
