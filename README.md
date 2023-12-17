@@ -44,7 +44,8 @@ I am a lifelong learner and enjoy challenges!
 
 ### Currently working on: 
 1) [React e-Commerce course project](https://github.com/vvsdan/comfy-store) 
-3) Review/Practice Exams for AWS CPP
+2) Review/Practice Exams for AWS CPP
+3) PostgreSQL course
 
 ### Recently finished: 
 1) AWS Cloud Practitioner course ✅
