@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Dan and I am independently learning development with a focus on front-end technologies. 
+My name is Dan and I am independently learning development with a focus on front-end languages and technologies.
 In addition, I am familiarizing myself with backend and cloud technologies to become a more well-rounded developer. 
 Learning through numerous online courses and reading documentation. 
 
@@ -9,7 +9,7 @@ I have a BSc (Health) with a minor in psychology, and am I a photographer.
 I am a lifelong learner and enjoy challenges!
 
 -------------------------------------------------------------------------------
- Primary Technologies:
+ Primary Languages & Technologies:
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/abb3d920-03b4-415c-a932-42e5b3674c42" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/041ffee8-71e1-4302-a9c3-e1cbad5bb11d" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/6f16e50e-2be9-4c7b-939e-6468955f93bb" width="40" height="40">
