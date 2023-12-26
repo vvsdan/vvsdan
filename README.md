@@ -41,6 +41,7 @@ I am a lifelong learner and enjoy challenges!
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/c9c5fb66-9f92-448b-b6d0-061a7f0ea83c" width="40" height="40">
 <img src="https://github.com/vvsdan/vvsdan/assets/110357864/9da47247-51f6-4715-9430-4f5be828c282" width="40" height="40">
 <img src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/5f8c622c-c217-4649-b0a9-7e0ee24bd704" width="40" height="40">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/New_Power_BI_Logo.svg/1200px-New_Power_BI_Logo.svg.png?20210102182532" width="40" height="40">
 
 ------------------------------------
 
