@@ -51,7 +51,7 @@ I am a lifelong learner and enjoy challenges!
 3) Power BI course
 
 ### Recently finished: 
-1) AWS Cloud Practitioner course ✅
+1) PostgreSQL course✅
 
 ### To Do: 
 1) Book AWS CPP Exam 
