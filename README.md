@@ -54,7 +54,8 @@ I am a lifelong learner and enjoy challenges!
 1) PostgreSQL course✅
 
 ### To Do: 
-1) Book AWS CPP Exam 
+1) Book AWS CPP Exam
+2) Upload Jobster project
 
 -----------------------------------
 
