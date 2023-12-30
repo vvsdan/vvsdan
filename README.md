@@ -46,7 +46,7 @@ I am a lifelong learner and enjoy challenges!
 ------------------------------------
 
 ### Currently working on: 
-1) [React e-Commerce course project](https://github.com/vvsdan/comfy-store) 
+1) [React e-Commerce course project](https://github.com/vvsdan/comfy-store) 95% finished 
 2) Review/Practice Exams for AWS CPP
 3) Power BI course
 
